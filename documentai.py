@@ -11,7 +11,7 @@ import os
 
 project_id= 'summercourse-356708'
 location = 'us' # Format is 'us' or 'eu'
-processor_id = '569485ff49ed7f49' #  Create processor in Cloud Console
+processor_id = 'key_here' #  Create processor in Cloud Console
 file_path = input('Enter file path: ')
 os.system('cls')
 for i in file_path:
